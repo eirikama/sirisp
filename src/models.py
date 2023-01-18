@@ -1,6 +1,6 @@
 import sys
 import torch
-from augmented_conv import AugmentedConv
+from augmented_convolutions import AugmentedConv
 
 class Sirisp(torch.nn.Module):
     def __init__(self):
