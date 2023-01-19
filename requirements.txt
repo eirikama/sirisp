@@ -1,0 +1,5 @@
+numpy==1.19.2
+matplotlib==3.3.3
+torch==1.10.2
+jupyter
+biospectools
