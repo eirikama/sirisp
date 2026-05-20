@@ -26,14 +26,22 @@ Infrared spectroscopy of biological cells is distorted by Mie scattering — a p
 
 ---
 
-## Paper
+##  Citation
+If you use this code in your research, please cite:
+bibtex@article{magnussen2022deep,
+  title   = {Deep Learning-enabled Inference of 3D Molecular Absorption Distribution
+             of Biological Cells from IR Spectroscopic Data},
+  author  = {Magnussen, Eirik A. and Zimmermann, Bernhard and Blazhko, Uladzislava
+             and Dzurendova, Simona and Dupuy-Galet, Baptiste and Byrtusova, Dana
+             and Muthreich, Florian and Tafintseva, Valeria and Liland, Kristian Hovde
+             and T{\o}ndel, Kristin and Shapaval, Volha and Kohler, Achim},
+  journal = {Communications Chemistry},
+  volume  = {5},
+  pages   = {174},
+  year    = {2022},
+  doi     = {10.1038/s42004-022-00792-3}
+}
 
-> Magnussen E. A., Zimmermann B., Blazhko U., Dzurendova S., Dupuy-Galet B., Byrtusova D.,
-> Muthreich F., Tafintseva V., Liland K. H., Tøndel K., Shapaval V., Kohler A.
-> **"Deep Learning-enabled Inference of 3D Molecular Absorption Distribution of Biological Cells from IR Spectroscopic Data"**
-> *Nature Communications Chemistry* **5**, 174 (2022).
-> https://doi.org/10.1038/s42004-022-00792-3
-
----
-
+## License
+This project is licensed under CC BY 4.0. You are free to share and adapt the material for any purpose, provided appropriate credit is given.
 
