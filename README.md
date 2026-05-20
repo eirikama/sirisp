@@ -7,12 +7,12 @@
 [![DOI](https://img.shields.io/badge/DOI-10.1038%2Fs42004--022--00792--3-orange)](https://doi.org/10.1038/s42004-022-00792-3)
 
 
+A deep learning framework for solving the **infrared inverse scattering problem**: recovering the true 3D molecular absorption distribution of biological cells from distorted IR spectroscopic measurements. Published in *Nature Communications Chemistry* (2022).
+
+
 <img border="0" align="Center" src="/doc/model_illustration.png" alt="Model Illustration" width=100%/>
 
 
-A deep learning framework for solving the **infrared inverse scattering problem**: recovering the true 3D molecular absorption distribution of biological cells from distorted IR spectroscopic measurements. Published in *Nature Communications Chemistry* (2022).
-
----
 
 ## Overview
 
