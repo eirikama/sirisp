@@ -1,6 +1,7 @@
 # Solver for InfraRed Inverse Scattering Problems (SIRISP)
 
 [![Python](https://img.shields.io/badge/python-3.8%2B-blue?logo=python&logoColor=white)](https://www.python.org/)
+![PyTorch](https://img.shields.io/badge/PyTorch-2.x-EE4C2C?logo=pytorch&logoColor=white)
 [![License: CC BY 4.0](https://img.shields.io/badge/license-CC%20BY%204.0-green)](https://creativecommons.org/licenses/by/4.0/)
 [![Paper](https://img.shields.io/badge/paper-Nature%20Comm.%20Chem.%202022-red)](https://doi.org/10.1038/s42004-022-00792-3)
 [![DOI](https://img.shields.io/badge/DOI-10.1038%2Fs42004--022--00792--3-orange)](https://doi.org/10.1038/s42004-022-00792-3)
